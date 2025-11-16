@@ -1,0 +1,364 @@
+{
+  "preguntas": [
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Algunos gatos son en realidad alergicos a los humanos.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Politica",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "El presidente de los Estados Unidos en 2021 era Donald Trump.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "La Gran Muralla China se puede ver desde la luna sin ayuda.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Ciencia: Computadoras",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "El primer ordenador ENIAC pesaba mas de 27 toneladas.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Musica",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Beethoven estaba sordo cuando compuso su Novena Sinfonia.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Un adulto humano tiene menos huesos que un bebe.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Rusia es el pais mas grande del mundo por superficie.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Estados Unidos declaro su independencia en 1776.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "Un atomo de helio tiene mas electrones que un atomo de litio.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Entretenimiento: Television",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "En 'Breaking Bad', la cadena de comida rapida de Gus Fring se llama Los Pollos Hermanos.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Libros",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "El nombre real de George Orwell era Eric Arthur Blair.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "El agua esta formada por dos atomos de hidrogeno y uno de oxigeno.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Cine",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "La pelicula 'Inception' fue dirigida por Christopher Nolan.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "La Carta Magna fue firmada en 1215.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Vaticano es el pais mas pequeno del mundo por superficie.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia: Computadoras",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "RAM significa Memoria de Acceso Aleatorio (Random Access Memory).",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Musica",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "El nombre real de David Bowie era David Jones.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Napoleon Bonaparte fue exiliado a la isla de Elba tras su primera abdicacion.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Libros",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "El Hobbit de J.R.R. Tolkien fue publicado antes de El Senor de los Anillos.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "El sonido viaja mas rapido en el agua que en el aire.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Islandia es miembro de la Union Europea.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "La caida del Muro de Berlin sucedio en 1989.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Los tiburones son mamiferos.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Los platanos crecen en arboles.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Entretenimiento: Television",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "En 'Los Simpson', el Sr. Burns dice 'Excelente' a menudo.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "Los diamantes estan hechos de carbon comprimido.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Entretenimiento: Cine",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "En 'Volver al Futuro', la maquina del tiempo esta construida a partir de un DeLorean.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Television",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "En 'Juego de Tronos' (serie), Jon Snow es hijo de Cersei Lannister.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Japon es un pais insular.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Alejandro Magno murio a los 32 anos.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Musica",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "La cancion 'Thriller' de Michael Jackson fue dirigida por John Landis.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Los peces dorados solo tienen una memoria de tres segundos.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Napoleon Bonaparte fue exiliado a la isla de Santa Elena tras su derrota definitiva.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia: Computadoras",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "HTML significa Lenguaje de Marcado de Hipertexto.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "La temperatura normal del cuerpo humano es aproximadamente 37 C.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Groenlandia es la isla mas grande del mundo.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Television",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "La serie 'Friends' se emitio por primera vez en 1994.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Historia",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "La Carta Magna limito el poder del rey en Inglaterra.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "La luz viaja mas rapido que el sonido.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "Algunos arboles tropicales pierden sus hojas durante la estacion seca.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Libros",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "Harry Potter fue escrito por J.K. Rowling.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Geografia",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "Hay mas rios en Africa que en Asia.",
+      "respuesta_correcta": "Falso",
+      "respuestas_incorrectas": ["Verdadero"]
+    },
+    {
+      "categoria": "Ciencia: Computadoras",
+      "tipo": "booleano",
+      "dificultad": "medio",
+      "pregunta": "La mayoria de los virus informaticos fueron creados en la decada de 1980.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Entretenimiento: Musica",
+      "tipo": "booleano",
+      "dificultad": "facil",
+      "pregunta": "El grupo Queen tenia a Freddie Mercury como cantante principal.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    },
+    {
+      "categoria": "Ciencia y Naturaleza",
+      "tipo": "booleano",
+      "dificultad": "dificil",
+      "pregunta": "El punto de ebullicion del agua disminuye cuando aumenta la altitud.",
+      "respuesta_correcta": "Verdadero",
+      "respuestas_incorrectas": ["Falso"]
+    }
+  ]
+}
