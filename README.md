@@ -242,7 +242,7 @@ index_pregunta = 0
 score = 0
 ``` 
 
-Para las preguntas que utlizamos para este minijuego, decidimos obtener 50 de temas diversos, aunque se limitan a respuestas de Verdadero o Falso para que se puedan contestar con nuestra implementación. Para obtener dichas preguntas y procesarlas en el código, las generamos con el formato de Trivia API y las pasamos a un archivo JSON.
+Para las preguntas que utlizamos para este minijuego, decidimos obtener 50 de temas diversos, aunque se limitan a respuestas de Verdadero o Falso para que se puedan contestar con nuestra implementación. Para obtener dichas preguntas y procesarlas en el código, las generamos con el formato de Open Trivia y las pasamos a un archivo JSON.
 
 El procesamiento de dicho archivo JSON se realiza con el módulo `json` nativo de Python que se encarga de convertirlo a un diccionario de Python con el que resulta muy sencillo trabajar:
 
