@@ -258,9 +258,8 @@ Siguiento con la implementación, se realiza el mismo proceso que siempre para i
 
 ``` python
 while True:
-    # Read frame
     ret, frame = cap.read()
-    frame = cv2.flip(frame, 1)  # Flip frame horizontally for mirror effect
+    frame = cv2.flip(frame, 1)
     if not ret:
         break
 ```
@@ -324,7 +323,6 @@ else:
 A ambos lados de la pantalla, en las esquinas de abajo, se mostrarán dos opciones: verdadero o falso. Así el usuario sabe hacia donde moverse para contestar. Las opciones parecerán dos botones, pues tendrán unos rectángulos negros por debajo. 
 
 ``` python
-# Show question text
 font = cv2.FONT_HERSHEY_SIMPLEX
 thickness = 1
 max_width = frame.shape[1] - 40  
@@ -342,7 +340,6 @@ text(pregunta["pregunta"], frame, 50, (0,0,0))
 (left_width, left_height), left_baseline = cv2.getTextSize(left_text, font, scale, thickness)
 (right_width, right_height), right_baseline = cv2.getTextSize(right_text, font, scale, thickness)
 
-# Show True text
 padding = 10
 x_left = 10
 (left_width, left_height), left_baseline = cv2.getTextSize(left_text, font, scale, thickness)
@@ -351,7 +348,6 @@ bottom_left = frame.shape[0] - 20 + left_baseline + padding // 2
 cv2.rectangle(frame, (x_left - padding, top_left), (x_left + left_width + padding, bottom_left), (0, 0, 0), -1)
 cv2.putText(frame, left_text, (x_left, frame.shape[0] - 20), font, scale, (0, 255, 0), thickness)
 
-# Show False text
 x_right = frame.shape[1] - right_width - 10
 (right_width, right_height), right_baseline = cv2.getTextSize(right_text, font, scale, thickness)
 top_right = frame.shape[0] - 20 - right_height - padding // 2
