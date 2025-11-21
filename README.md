@@ -452,5 +452,6 @@ if key == 27:  # Salir si se presiona 'q'
 
 - Link al dataset original: https://github.com/joojs/fairface
 - Link a nuestro dataset derivado con las imágenes organizadas en carpetas: https://drive.google.com/drive/folders/1U9pAZhKAfaWCxv68YnpeRSb6IwjxHACL?usp=sharing
-
-NOTA: Por problemas técnicos, se han perdido los archivos `X_embeddings.npy` e `Y_embeddings.npy`, sin embargo, por suerte conservamos el modelo entrenado por esos embeddings. Debido a la cantidad de tiempo que se tarda en generarlos, como se especificó anteriormente (+6h), no se podrán incluir en el proyecto.
+- Links a los embeddings
+ - X_embeddings.npy → https://drive.google.com/file/d/1rwNr2n4Bf3Nh3QsMhjYRKeYAc7AJ0x4s/view?usp=sharing
+ - Y_embeddings.npy → https://drive.google.com/file/d/1Nf8rWUszlKJrpGNREMnCY_iwfkO4ihhW/view?usp=sharing
